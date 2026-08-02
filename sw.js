@@ -1,4 +1,4 @@
-const CACHE_NAME = "geomatics-guide-v1";
+const CACHE_NAME = "geomatics-guide-v2";
 const ASSETS_TO_CACHE = [
   "./",
   "./index.html"
